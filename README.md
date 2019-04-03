@@ -4,7 +4,7 @@
 ## 使用示例
 ```
 
-import comAxios from '@ali/com-axios';
+import comAxios from 'com-axios';
 import apiMap from './apis';
 
 	/**
